@@ -1,0 +1,15 @@
+{
+    "delayStart": 0,
+    "fortniteAPI": {
+        "apiKey": "6b416eda698bc625d0e660d30ece8cd9327933682e36dad2fa51aaf9db4f3173"
+    },
+    "language": "fr",
+    "supportACreator": "Code Créateur DENTOZ",
+    "twitter": {
+        "enabled": true,
+        "apiKey": "XQFg5y1p8Oip9FBrhbTurLJgi",
+        "apiSecret": "AqULlrIHiVRpdrhney3oTCz3nvF2pwet8TtekZaeiHwJMViOWF",
+        "accessToken": "2919355408-hqppCeSqAa7pJXw9bkqsxzhSNDsRWytVH1C8mTH",
+        "accessSecret": "ezQrWykzBrajjNhEewSWaklig93dftjuigrRXGl7Fi9sb"
+    }
+}
